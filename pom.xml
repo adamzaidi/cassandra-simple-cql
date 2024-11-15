@@ -21,7 +21,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <project.build.targetJdk>${java.version}</project.build.targetJdk>
 
-        <cassandra-driver.version>3.3.0</cassandra-driver.version>
+        <cassandra-driver.version>4.0.0</cassandra-driver.version>
         <scassandra.version>1.0.3</scassandra.version>
     </properties>
 
